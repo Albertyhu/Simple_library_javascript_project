@@ -1,0 +1,8 @@
+table tr th, td {
+    border: 1px solid black;
+}
+
+tr#text td {
+    padding: 10px;
+    color: '#DD7127' !important;
+}
